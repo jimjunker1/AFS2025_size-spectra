@@ -82,6 +82,8 @@ Heneghan, R. F., J. D. Everett, J. L. Blanchard, and A. J. Richardson. 2016. Zoo
 
 Trebilco, R., J. K. Baum, A. K. Salomon, and N. K. Dulvy. 2013. Ecosystem ecology: size-based constraints on the pyramids of life. Trends in Ecology & Evolution 28:423–431. [DOI: 10.1016/j.tree.2013.03.008](https://www.sciencedirect.com/science/article/pii/S0169534713000888)
 
+Pomeranz, J. P. F., H. J. Warburton, and J. S. Harding. 2019. Anthropogenic mining alters macroinvertebrate size spectra in streams. Freshwater Biology 64:81–92. [DOI: 10.1111/fwb.13196](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13196)
+
 ### Modeling
 
 Andersen, K. H., and J. E. Beyer. 2006. Asymptotic Size Determines Species Abundance in the Marine Size Spectrum. The American Naturalist 168:54–61. [DOI: 10.1086/504849](http://www.journals.uchicago.edu/doi/10.1086/504849)
