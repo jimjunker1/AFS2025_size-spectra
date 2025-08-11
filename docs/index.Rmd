@@ -3,4 +3,90 @@ title: "Size spectra resources"
 output: html_document
 ---
 
-# AFS 2025
+```{css, echo=FALSE}
+.link-style1 a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.link-style2 a {
+ color: blue;
+}
+
+```
+
+<center><big>*****Job Opportunities*****</big></center>
+
+We are recruiting postdoc and PhD student positions for an NSF-funded project on the patterns and mechanisms of ecosystem size spectra across macroecological gradients. The anticipated start date would be in Spring/Summer 2026. Formal announcements are forthcoming, but if you are interested contact:
+
+James Junker [james.junker[at]unt.edu](mailto:james.junker@unt.edu) for the PhD student position
+
+Jeff Wesner [jeff.wesner[at]usd.edu](mailto:jeff.wesner@usd.edu) for the postdoc position
+
+# Welcome
+
+Extended resources for Junker, JR, R. McClure, J. Pomeranz, J. Wesner, B. Murry. *Use of size spectra as a holistic indicator of change for fisheries and ecosystem management*. Poster #46. AFS 2025 Annual Conference.[LINK](Junker_AFS2025_Poster.pdf)
+
+
+Are you interested in the application of size spectra to ecosystem and fisheries management? See details.
+
+<details>
+
+___
+
+The ISD arises from multiple theories in ecology and has potential as a universal
+indicator. However, our understanding of the macroecology of the ISD is limited, as most studies
+have been limited to small spatial or temporal scales. Multiple
+agencies routinely collect these data (e.g., NEON, LTER, fisheries agencies, etc.), but it is not
+currently possible to analyze macroecological or temporal trends in size spectra because the data
+have not been compiled and harmonized. Gathering these data will allow ecologists to quantify
+spatial and temporal variation in size-abundance scaling across freshwater ecosystems and to test
+theory-driven hypotheses for how that scaling responds to fisheries management decisions (e.g., changing regulations and harvest, stocking) and natural and anthropogenic change (e.g., species invasions, eutrophication, warming). 
+
+***** Are you a manager of fisheries data that collects body size information? Would you like to use size spectra as a potential management metric? *****
+
+We are assessing the interest in broader use of size spectra for understanding and managing inland fisheries. This might include workshops at conferences like AFS, shared learning resource collections, web portals to automate analysis of community size spectra, or other opportunities for data syntheses.
+
+If you are interested, please reach out to [james.junker[at]unt.edu](mailto:james.junker@unt.edu).
+
+___
+
+</details>
+
+
+
+Below is an biased and incomplete bibliography of useful size spectra resources. 
+
+### General papers
+
+Sprules, W. G., and L. E. Barth. 2016. Surfing the biomass size spectrum: some remarks on history, theory, and application. Canadian Journal of Fisheries and Aquatic Sciences 73:477–495. [DOI:10.1139/cjfas-2015-0115](https://doi.org/10.1139/cjfas-2015-0115)
+
+Petchey, O. L., and A. Belgrano. 2010. Body-size distributions and size-spectra: universal indicators of ecological status? Biology Letters 6:434–437.[DOI:10.1098/rsbl.2010.0240](https://doi.org/10.1098/rsbl.2010.0240)
+
+White, E. P., S. K. M. Ernest, A. J. Kerkhoff, and B. J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology & Evolution 22:323–330.[DOI:10.1016/j.tree.2007.03.007](https://doi.org/10.1016/j.tree.2007.03.007)
+
+
+### Modeling and applications
+
+Blanchard, J. L., S. Jennings, R. Law, M. D. Castle, P. McCloghrie, M.-J. Rochet, and E. Benoît. 2009. How does abundance scale with body size in coupled size-structured food webs? Journal of Animal Ecology 78:270–280.
+
+Delius, G., F. Scott, J. Blanchard, and K. Andersen. 2024. mizer: Dynamic multi-species size spectrum modelling. manual.
+
+[github page](https://sizespectrum.org/mizer/)
+
+### Methods
+
+* Bayesian Multi-level inference of size spectra
+
+Wesner, J. S., J. P. F. Pomeranz, J. R. Junker, and V. Gjoni. 2024. Bayesian hierarchical modelling of size spectra. Methods in Ecology and Evolution 15:856–867.[DOI:10.1111/2041-210X.14312](https://doi.org/10.1111/2041-210X.14312)
+
+[github page](https://github.com/jswesner/isdbayes)
+
+* Multiple methods of estimation
+
+Edwards, A. M. 2020. sizeSpectra: R package for fitting size spectra to ecological data (including binned data).
+
+[github page](https://github.com/andrew-edwards/sizeSpectra)
+
+Edwards, A. M., J. P. W. Robinson, M. J. Plank, J. K. Baum, and J. L. Blanchard. 2017. Testing and recommending methods for fitting size spectra to data. Methods in Ecology and Evolution 8:57–67.
+
