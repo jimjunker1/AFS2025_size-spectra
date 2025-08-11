@@ -25,7 +25,7 @@ Jeff Wesner [jeff.wesner[at]usd.edu](mailto:jeff.wesner@usd.edu) for the postdoc
 
 # Welcome
 
-Extended resources for Junker, JR, R. McClure, J. Pomeranz, J. Wesner, B. Murry. *Use of size spectra as a holistic indicator of change for fisheries and ecosystem management*. Poster #46. AFS 2025 Annual Conference.[LINK](Junker_AFS2025_Poster.pdf)
+Extended resources for Junker, J., R. McClure, J. Pomeranz, J. Wesner, B. Murry. *Use of size spectra as a holistic indicator of change for fisheries and ecosystem management*. Poster #46. AFS 2025 Annual Conference.[PDF](Junker_AFS2025_Poster.pdf)
 
 
 Are you interested in the application of size spectra to ecosystem and fisheries management? See details.
@@ -35,7 +35,7 @@ Are you interested in the application of size spectra to ecosystem and fisheries
 ___
 
 The ISD arises from multiple theories in ecology and has potential as a universal
-indicator. However, our understanding of the macroecology of the ISD is limited, as most studies
+indicator. However, our understanding of the macroecology of the ISD is limited, particularly for non-marine ecosystems, as most studies
 have been limited to small spatial or temporal scales. Multiple
 agencies routinely collect these data (e.g., NEON, LTER, fisheries agencies, etc.), but it is not
 currently possible to analyze macroecological or temporal trends in size spectra because the data
@@ -66,9 +66,25 @@ Petchey, O. L., and A. Belgrano. 2010. Body-size distributions and size-spectra:
 White, E. P., S. K. M. Ernest, A. J. Kerkhoff, and B. J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology & Evolution 22:323–330.[DOI:10.1016/j.tree.2007.03.007](https://doi.org/10.1016/j.tree.2007.03.007)
 
 
-### Modeling and applications
+### Applications
 
-Blanchard, J. L., S. Jennings, R. Law, M. D. Castle, P. McCloghrie, M.-J. Rochet, and E. Benoît. 2009. How does abundance scale with body size in coupled size-structured food webs? Journal of Animal Ecology 78:270–280.
+Novak, B., B. A. Murry, J. S. Wesner, V. Gjoni, C. C. Arantes, E. Shepta, J. P. F. Pomeranz, J. R. Junker, K. Zipfel, A. Stump, L. E. Solomon, K. A. Maxson, and J. A. DeBoer. 2024. Threshold responses of freshwater fish community size spectra to invasive species. Ecosphere 15:e70090. [DOI: 10.1002/ecs2.70090](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.70090)
+
+Murry, B. A., and J. M. Farrell. 2014. Resistance of the size structure of the fish community to ecological perturbations in a large river ecosystem. Freshwater Biology 59:155–167. [DOI: 10.1111/fwb.12255](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.12255)
+
+Jennings, S., and J. L. Blanchard. 2004. Fish abundance with no fishing: predictions based on macroecological theory. Journal of Animal Ecology 73:632–642. [DOI:10.1111/j.0021-8790.2004.00839.x](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.0021-8790.2004.00839.x)
+
+Persson, L., P.-A. Amundsen, A. M. De Roos, A. Klemetsen, R. Knudsen, and R. Primicerio. 2007. Culling Prey Promotes Predator Recovery Alternative States in a Whole-Lake Experiment. Science 316:1743–1746. [DOI:10.1126/science.1141412](https://www.science.org/doi/10.1126/science.1141412)
+
+Blanchard, J. L., S. Jennings, R. Law, M. D. Castle, P. McCloghrie, M.-J. Rochet, and E. Benoît. 2009. How does abundance scale with body size in coupled size-structured food webs? Journal of Animal Ecology 78:270–280. [DOI: 10.1111/j.1365-2656.2008.01466.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2008.01466.x)
+
+Heneghan, R. F., J. D. Everett, J. L. Blanchard, and A. J. Richardson. 2016. Zooplankton Are Not Fish: Improving Zooplankton Realism in Size-Spectrum Models Mediates Energy Transfer in Food Webs. Frontiers in Marine Science 3. [DOI: 10.3389/fmars.2016.00201](https://www.frontiersin.org/articles/10.3389/fmars.2016.00201/full)
+
+Trebilco, R., J. K. Baum, A. K. Salomon, and N. K. Dulvy. 2013. Ecosystem ecology: size-based constraints on the pyramids of life. Trends in Ecology & Evolution 28:423–431. [DOI: 10.1016/j.tree.2013.03.008](https://www.sciencedirect.com/science/article/pii/S0169534713000888)
+
+### Modeling
+
+Andersen, K. H., and J. E. Beyer. 2006. Asymptotic Size Determines Species Abundance in the Marine Size Spectrum. The American Naturalist 168:54–61. [DOI: 10.1086/504849](http://www.journals.uchicago.edu/doi/10.1086/504849)
 
 Delius, G., F. Scott, J. Blanchard, and K. Andersen. 2024. mizer: Dynamic multi-species size spectrum modelling. manual.
 
@@ -88,5 +104,9 @@ Edwards, A. M. 2020. sizeSpectra: R package for fitting size spectra to ecologic
 
 [github page](https://github.com/andrew-edwards/sizeSpectra)
 
-Edwards, A. M., J. P. W. Robinson, M. J. Plank, J. K. Baum, and J. L. Blanchard. 2017. Testing and recommending methods for fitting size spectra to data. Methods in Ecology and Evolution 8:57–67.
+Edwards, A. M., J. P. W. Robinson, M. J. Plank, J. K. Baum, and J. L. Blanchard. 2017. Testing and recommending methods for fitting size spectra to data. Methods in Ecology and Evolution 8:57–67. [DOI: 10.1111/2041-210X.12641](http://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12641)
+
+Edwards, A. M., J. P. W. Robinson, J. L. Blanchard, J. K. Baum, and M. J. Plank. 2020. Accounting for the bin structure of data removes bias when fitting size spectra. Marine Ecology Progress Series 636:19–33. [DOI: 10.3354/meps13230](https://doi.org/10.3354/meps13230)
+
+Pomeranz, J., J. R. Junker, V. Gjoni, and J. S. Wesner. 2024. Maximum likelihood outperforms binning methods for detecting differences in abundance size spectra across environmental gradients. Journal of Animal Ecology 93:267–280. [DOI: 10.1111/1365-2656.14044](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14044)
 
